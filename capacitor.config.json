@@ -1,0 +1,9 @@
+{
+  "appId": "com.birdblast.game",
+  "appName": "BIRD BLAST",
+  "webDir": "www",
+  "backgroundColor": "#3fa7ff",
+  "android": {
+    "allowMixedContent": false
+  }
+}
